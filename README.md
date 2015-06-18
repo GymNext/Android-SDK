@@ -9,7 +9,9 @@ git clone https://github.com/GymNext/Android-SDK.git
 
 # Step 2: Import Library
 
-* put GymNext-SDK.jar into your libs directory
+* File > Import Module and import SDK
+* File > Project Structure and choose your app
+* Go to dependencies tab and add SDK as dependency
 
 # Step 3: Integration
 
